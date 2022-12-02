@@ -27,6 +27,6 @@
 |:----------:|----------|------------|
 | [프로그래머스] [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891) | 22.11.29 (화) | [정답 코드] [Python3](https://github.com/ndb796/python-for-coding-test/blob/master/11/6.py) / [Java](https://github.com/ndb796/python-for-coding-test/blob/master/11/6.java) |
 | [백준] [치킨 배달](https://www.acmicpc.net/problem/15686) | 22.11.30 (수) | [정답 코드] [Python3](https://github.com/ndb796/python-for-coding-test/blob/master/12/7.py) / [Java](https://github.com/ndb796/python-for-coding-test/blob/master/12/7.java) |
-| [백준] [연구소](https://www.acmicpc.net/problem/14502) | 22.12.02 (금) | [Python](https://github.com/ndb796/python-for-coding-test/blob/master/13/2.py) / [Java](https://github.com/ndb796/python-for-coding-test/blob/master/13/2.java)
+| [백준] [연구소](https://www.acmicpc.net/problem/14502) | 22.12.02 (금) | [정답 코드] [Python](https://github.com/ndb796/python-for-coding-test/blob/master/13/2.py) / [Java](https://github.com/ndb796/python-for-coding-test/blob/master/13/2.java)
 
 ## 각자 본인 이름 영어로 브렌치 생성해서 push!
