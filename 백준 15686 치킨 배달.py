@@ -24,7 +24,7 @@ def dfs(x, y):
             if 0 <= nx <= N and 0 <= ny <= N:
                 if visit[nx][ny] == False:
                     dfs(nx, ny)
-    
+
 for i in range(N):
     for j in range(N):
         if city[i][j] != 1:
