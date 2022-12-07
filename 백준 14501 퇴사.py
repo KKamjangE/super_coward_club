@@ -9,7 +9,7 @@ day_price =[]
 
 for i in range(N):
     day, price = map(int, input().split())
-    heapq.heappush(day_price, (day-1, price, i+1))
+    heapq.heappush(day_price, (day, price, i+1))
 
 # print(day_price)
 
@@ -21,9 +21,9 @@ for _ in range(N):
     if day+end_time > N:
         continue
     
-    current_price = sum(dp[day:end_time+1])
+    current_price = sum(dp[day:end_time])
         
     if dp[day+end_time] < price and current_price < price:
-        dp[day+end_time] += price
+        dp[day+end_time-1] += price
         
 print(sum(dp))
